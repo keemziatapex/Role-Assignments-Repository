@@ -2,7 +2,7 @@
 ![image alt](https://github.com/keemziatapex/Role-Assignments-Repository/blob/e327ea38e9bd73948c681779b6c2949e31d214ca/Screenshot%202026-06-19%20025626.png)
 </p>
 <h1>Role Assignments for Users (Azure)</h1>
-This project outlines the process of assigning Roles to user accounts in Entra ID.<br />
+This Lab outlines the process of assigning Roles to user accounts in Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
 <h2>Operating Systems Used </h2>
