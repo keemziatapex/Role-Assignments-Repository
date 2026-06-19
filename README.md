@@ -12,13 +12,13 @@ This project outlines the process of assigning Roles to user accounts in Entra I
 ![image alt](https://github.com/keemziatapex/Role-Assignments-Repository/blob/d590a415af362e4ca93552c1b50f4b1604fb9fd3/Screenshot%202026-06-19%20030601.png)
 </p>
 <p>
-Assigned User Administrator Role and Directory Readers Role to user Fausat Bolaji.
+Assigned Authentication Administrator and Security Administrator Roles to user Fausat Bolaji.
 </p>
 <br />
 
 ![image alt](https://github.com/keemziatapex/Role-Assignments-Repository/blob/3b933a8dacf4f0f7850c27026df16ee31fee7110/Screenshot%202026-06-19%20030234.png)
 </p>
 <p>
-Assigned User Administrator Role and Directory Readers Role to user Khairat Abijo.
+Assigned Organization Messages Writer and Window Update Deployment Roles to user Khairat Abijo.
 </p>
 <br />
