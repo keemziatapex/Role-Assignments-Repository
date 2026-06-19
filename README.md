@@ -15,10 +15,10 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 Assigned User Administrator Role and Directory Readers Role to user Fausat Bolaji.
 </p>
 <br />
-<p>
-<img width="1919" height="684" alt="image" src="https://github.com/userattachments/assets/4634746f-10e6-40c9-827a-8d33219c4a81" />
+
+![image alt](https://github.com/keemziatapex/Role-Assignments-Repository/blob/3b933a8dacf4f0f7850c27026df16ee31fee7110/Screenshot%202026-06-19%20030234.png)
 </p>
 <p>
-Assigned User Administrator Role and Directory Readers Role to userKhairat Abijo.
+Assigned User Administrator Role and Directory Readers Role to user Khairat Abijo.
 </p>
 <br />
