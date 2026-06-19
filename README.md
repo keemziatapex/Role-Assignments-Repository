@@ -1,5 +1,5 @@
 # Assigning Roles in Microsoft Azure's Entra ID <p align="cen
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+![image alt](https://github.com/keemziatapex/Role-Assignments-Repository/blob/e327ea38e9bd73948c681779b6c2949e31d214ca/Screenshot%202026-06-19%20025626.png)
 </p>
 <h1>Role Assignments for Users (Azure)</h1>
 This tutorial outlines the process of assigning Roles to user accounts in Entra ID.<br />
